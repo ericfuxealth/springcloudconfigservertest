@@ -4,6 +4,6 @@ my:
     b: 300
   array:
     c:
-      - x
-      - y
-      - z
+    - x
+    - y
+    - z

@@ -1,0 +1,7 @@
+deployments:
+  - id: deploymentA
+    prop1: x
+    prop2: y
+  - id: deploymentB
+    prop1: a
+    prop2: b
