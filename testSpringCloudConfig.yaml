@@ -1,9 +1,0 @@
-my:
-  prop:
-    a: 200
-    b: 300
-  array:
-    c:
-    - x
-    - y
-    - z
