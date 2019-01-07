@@ -4,6 +4,7 @@ deployments:
     prop2: y
   - id: deploymentB
     prop1: a
-    prop2: b
+    prop2: updated in staging
   - id: deploymentC
     propx: added to show profiles
+    propStaing: added in staging branch
